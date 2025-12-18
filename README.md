@@ -15,17 +15,24 @@ The project demonstrates fundamental concepts of UI test automation using Java a
 ---
 
 ## 📂 Project Structure
-├── .idea
-├── .mvn
-├── src
-│   ├── main
-│   └── test
-│       └── java
-│           ├── PracticeUiTests
-│           └── SearchAssertionsTest
-├── target
-├── .gitignore
-└── pom.xml
+```plaintext
+|-- .idea
+|-- .mvn
+|-- src
+|   |
+|   |-- main
+|   |
+|   |-- test
+|       |
+|       |-- java
+|           |
+|           |-- PracticeUiTests.java
+|           |-- SearchAssertionsTest.java
+|
+|-- target
+|-- .gitignore
+|-- pom.xml
+```
 ---
 
 ## 🧪 Test Scenarios Covered
